@@ -12,6 +12,7 @@ public class DerPortugisischeDämon extends JuniorRobot
 	public void run() {
 	
 		setColors(red,green,white);
+		firstmove();
 
 		while(true) {
 		
